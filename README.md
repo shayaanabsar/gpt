@@ -38,3 +38,31 @@ The give return of Leggerand by of Yea
 ```
 
 Although though not perfect, the model is still quite impressive and could be improved with tuning of the hyperparameters.
+
+Additionally, I trained the model on poetry written by the German poet, Heinrich Heine. I used the collection of his poems entitled *Buch der Lieder* as a dataset. The model achieves very similar loss to the shakespeare model.
+
+The model produced the following text:
+```
+Die Götter sind So weits
+Ich in seufzend ich im Kalt bewollte.
+
+Es will ich dem Rold, Sonnis
+Rahroben ensten auf in Schofft,
+Und die Berfattter erdas,
+Von seisamest tot,
+Und im Dachten Gottersommet,
+Ein Lüften gold lang und Solter herde
+Die trünften und sie ins Das Licht.
+
+"Wenn ich es Fennen lachten gesung Ents mort,
+Wein solchen Gleichen der Kappelzen, Wandrung
+Diesen Grust, immer Wortenl setblut.
+Rjanzen sei elig ein sankes,
+Von das Liebe kochtt obe,
+Mie! wild mir die Spesselen,
+Von allten Mardlaß getüllen.
+
+Plag ich die plaut weiter Uhallten
+Ihr Ritter zerfnüste,
+Mahr trage hallen ein Gesang.
+```

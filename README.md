@@ -54,7 +54,7 @@ Und im Dachten Gottersommet,
 Ein Lüften gold lang und Solter herde
 Die trünften und sie ins Das Licht.
 
-"Wenn ich es Fennen lachten gesung Ents mort,
+Wenn ich es Fennen lachten gesung Ents mort,
 Wein solchen Gleichen der Kappelzen, Wandrung
 Diesen Grust, immer Wortenl setblut.
 Rjanzen sei elig ein sankes,
